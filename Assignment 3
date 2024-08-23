@@ -1,0 +1,9 @@
+To integrate Azure Monitoring to monitor an instance's CPU, memory, and disk usage, and to set up a basic alert to notify you via email if CPU usage exceeds 80%
+
+1.Enable Azure Monitor on the VM
+
+2.Configure Monitoring Settings
+
+3.Create an Alert Rule for CPU Usage
+
+4.Review and Create the Alert Rule
