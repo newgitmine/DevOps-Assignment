@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Pull the latest code from the Git repository
-                git credentialsId: 'git-credentials-id', url: 'https://github.com/your-username/your-repo.git'
+                git credentialsId: 'git-credentials-id', url: 'https://github.com/newgitmine/DevOps-Assignment.git'
             }
         }
 
